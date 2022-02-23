@@ -12,7 +12,8 @@ The repository contains all my work in Natural Language Processing.
 
 ## Projects
 
-[Sentiment Analysis with Logistic Regression]()😟😀
+[Sentiment Analysis with Logistic Regression](https://github.com/utkarshtrehan/Natural-Language-Processing/blob/main/Sentiment%20Analysis%20-%20Logistic%20Regression.ipynb)😟😀
+[Sentiment Analysis - Naive Bayes](https://github.com/utkarshtrehan/Natural-Language-Processing/blob/main/Sentiment%20Analysis%20-%20Naive%20Bayes.ipynb)
   
 
 # Certificate   
